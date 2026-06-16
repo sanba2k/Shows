@@ -32,7 +32,7 @@ I;codigo;artista;cantidadEntradas;precioEntrada;categoria
 ---
 
 ## 📂 Ejemplo de archivo
-
+I;3000;Twenty One Pilots;8000;21000;VIP
 N;3001;Wos;5000;8000  
 I;3002;Taylor Swift;10000;15000;VIP  
 N;3003;Duki;6000;9000  
@@ -82,14 +82,23 @@ Otro → +100000
 🧪 Funcionalidades a implementar
 
 Leer el archivo y cargar los shows en el HashMap.
+
 Mostrar todos los shows con su recaudación total.
+
 Buscar un show por código.
+
 Calcular la recaudación total de todos los shows utilizando Streams.
+
 Obtener el show con mayor recaudación utilizando Streams.
+
 Contar cuántos shows internacionales hay.
+
 Mostrar shows con recaudación mayor a $10.000.000.
+
 Calcular el promedio de recaudación de shows nacionales.
+
 Obtener una lista con los nombres de artistas internacionales.
+
 Mostrar los códigos de shows ordenados de mayor a menor según recaudación.
 
 🚀 Conceptos a aplicar
