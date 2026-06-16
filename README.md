@@ -33,6 +33,7 @@ I;codigo;artista;cantidadEntradas;precioEntrada;categoria
 
 ## 📂 Ejemplo de archivo
 I;3000;Twenty One Pilots;8000;21000;VIP
+
 N;3001;Wos;5000;8000  
 I;3002;Taylor Swift;10000;15000;VIP  
 N;3003;Duki;6000;9000  
